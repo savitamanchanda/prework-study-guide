@@ -14,5 +14,5 @@ To use this Prework Study Guide, I can review the notes in each section. For sug
 ## Credits 
 N/A 
 
-##License 
+## License
 Please refer to the LICENSE in the repo. 
